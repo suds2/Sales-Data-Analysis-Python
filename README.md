@@ -28,6 +28,24 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data using
 - Studied occupation-wise customer spending.
 - Found top-selling product categories.
 
+ ## 📊 Project Visualizations
+
+| Gender Distribution | Marital Status |
+|---------------------|----------------|
+| ![](Gender%20diff.png) | ![](Marital%20Status.png)|
+
+| Male vs Female Purchases | Sales by States |
+|--------------------------|-----------------|
+| ![](Male%20Vs%20Female.png) | ![](States.png) |
+
+| Different Sectors | Top Customers |
+|-------------------|---------------|
+| ![](Different%20sectors.png) | ![](Table%201.png)|
+
+| Product Summary |
+|-----------------|
+| ![](Table%201.png) |
+
 ## 📁 Repository Structure
 ```
 ├── Diwali_Sales_Analysis.ipynb
